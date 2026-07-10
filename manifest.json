@@ -265,7 +265,7 @@
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/ctgmovies.js",
       "enabled": true,
-      "hasSettings": false,
+      "hasSettings": true,
       "formats": ["m3u8", "mp4", "mkv"],
       "logo": "https://i.postimg.cc/jSQmk9B3/ctgmovies.png",
       "contentLanguage": ["en", "hi"]
